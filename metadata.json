@@ -1,0 +1,9 @@
+{
+  "name": "Selalu Bersamamu",
+  "description": "A romantic and simple web application designed for long-distance couples to stay connected through real-time location sharing, video calls, and safety status updates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
